@@ -3539,7 +3539,7 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 18em;
-		z-index: 10000;
+		z-index: -10000;
 	}
 
 		#sidebar > .inner {

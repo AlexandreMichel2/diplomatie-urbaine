@@ -3391,7 +3391,7 @@ input, select, textarea {
 			border: 0;
 			color: #ffffff;
 			display: block;
-			font-size: 1.5em;
+			font-size: 1.25em;
 			font-weight: bold;
 			z-index: 10000;
 		}
@@ -3424,7 +3424,7 @@ input, select, textarea {
 						border: 0;
 						color: rgba(255, 255, 255, 0.35);
 						display: inline-block;
-						font-size: 0.70em;
+						font-size: 0.60em;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;

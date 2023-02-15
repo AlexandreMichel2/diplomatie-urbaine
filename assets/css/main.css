@@ -116,7 +116,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: sans-serif, Helvetica, Arial;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -151,7 +151,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.35);
+		border-bottom: dotted 2.25px rgba(255, 255, 255, 0.35);
 		color: inherit;
 		text-decoration: none;
 	}
@@ -216,6 +216,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.75em;
+		border-bottom: solid 1px rgb(255, 255, 255);
 	}
 
 	h3 {
@@ -1800,6 +1801,11 @@ input, select, textarea {
 		flex: 50%;
 	}
 
+/* Gallery (3 columns) */
+	.column3 {
+		flex: 33%;
+	}
+
 /* Box */
 
 	.box {
@@ -2622,7 +2628,7 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		padding-left: 1.25em;
 	}
 
@@ -2632,12 +2638,13 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		padding-left: 1em;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			padding-top: 0.375em;
 		}
 
 		ul.alt {
@@ -3052,7 +3059,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 95%;
 			-ms-flex: 1;
 		}
 
@@ -3386,6 +3393,7 @@ input, select, textarea {
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
+			z-index: 10000;
 		}
 
 		#header > nav {
@@ -3539,7 +3547,7 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 18em;
-		z-index: -10000;
+		z-index: 1;
 	}
 
 		#sidebar > .inner {

@@ -3824,6 +3824,7 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 100%;
+				z-index: 10000000;
 			}
 
 				#sidebar > .inner {
@@ -3870,7 +3871,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #11594b;
+							background-color: #fcc619;
 						}
 
 		}

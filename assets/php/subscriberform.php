@@ -6,9 +6,7 @@ if($_POST["message"]) {
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
-    mail("Alexandre.Michel@USherbrooke.ca", "$subject",
-
-    $message. "From: $visitor_email");
+    mail("Alexandre.Michel@USherbrooke.ca", "$subject", "$message", "From: $visitor_email");
 }
 
 ?>

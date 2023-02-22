@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: -webkit-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: -ms-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: linear-gradient(to right, #0c914e, #fcc619);
+				background-image: -moz-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: -webkit-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: -ms-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: linear-gradient(to right, #fcc619, #0c914e);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3422,7 +3422,7 @@ input, select, textarea {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(255, 255, 255, 0.35);
+						color: rgba(255, 255, 255, 0.5);
 						display: inline-block;
 						font-size: 0.60em;
 						font-weight: bold;
@@ -3431,7 +3431,7 @@ input, select, textarea {
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(255, 255, 255, 0.637);
+							color: rgba(255, 255, 255, 0.85);
 						}
 
 						#header > nav > ul > li a.active {
@@ -3788,10 +3788,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: -webkit-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: -ms-linear-gradient(to right, #0c914e, #fcc619);
-				background-image: linear-gradient(to right, #0c914e, #fcc619);
+				background-image: -moz-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: -webkit-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: -ms-linear-gradient(to right, #fcc619, #0c914e);
+				background-image: linear-gradient(to right, #fcc619, #0c914e);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;

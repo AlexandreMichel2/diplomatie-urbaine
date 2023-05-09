@@ -6,12 +6,10 @@ var simplemaps_worldmap_mapdata={
     background_transparent: "yes",
     border_color: "#ffffff",
     popups: "detect",
-    
-    //State defaults
-    state_description: "State description",
-    state_color: "#88A4BC",
-    state_hover_color: "#3B729F",
-    state_url: "https://perspective.usherbrooke.ca/bilan/BMEncyclopedie/BMEncycloListePays.jsp",
+    state_description: "",
+    state_color: "#fcc619",
+    state_hover_color: "#fce8aa",
+    state_url: "",
     border_size: 1.5,
     all_states_inactive: "no",
     all_states_zoomable: "no",
@@ -22,8 +20,8 @@ var simplemaps_worldmap_mapdata={
     location_opacity: 0.8,
     location_hover_opacity: 1,
     location_url: "",
-    location_size: 25,
-    location_type: "square",
+    location_size: "20",
+    location_type: "circle",
     location_image_source: "frog.png",
     location_border_color: "#FFFFFF",
     location_border: 2,
@@ -715,9 +713,158 @@ var simplemaps_worldmap_mapdata={
   },
   locations: {
     "0": {
-      lat: "31.1666666667",
-      lng: "121.46666666667",
-      name: "Shanghai"
+      lat: -0.206,
+      lng: -78.509,
+      name: "Quito",
+      description: "Lettre d'intention (juillet 1997)",
+      url: "https://fr.wikipedia.org/wiki/Quito"
+    },
+    "1": {
+      lat: 42.359,
+      lng: -71.057,
+      name: "Boston",
+      description: "Déclaration d'intention (mars 1995)",
+      url: "https://fr.wikipedia.org/wiki/Boston"
+    },
+    "2": {
+      lat: 32.086,
+      lng: 34.79,
+      name: "Tel-Aviv Yafo",
+      description: "Déclaration d'intention (juin 1996)",
+      url: "https://fr.wikipedia.org/wiki/Tel-Aviv"
+    },
+    "3": {
+      lat: -33.437,
+      lng: -70.65,
+      name: "Santiago",
+      description: "Déclaration d'intention (juillet 1997)",
+      url: "https://fr.wikipedia.org/wiki/Santiago_du_Chili"
+    },
+    "4": {
+      lat: 40.178,
+      lng: 44.514,
+      name: "Erevan",
+      description: "Déclaration d'intention (septembre 1998)",
+      url: "https://fr.wikipedia.org/wiki/Erevan"
+    },
+    "5": {
+      lat: 37.976,
+      lng: 23.736,
+      name: "Athènes",
+      description: "Déclaration d'intention d'amitié et de coopération (septembre 1997)",
+      url: "https://fr.wikipedia.org/wiki/Ath%C3%A8nes"
+    },
+    "6": {
+      lat: 55.757,
+      lng: 37.615,
+      name: "Moscou",
+      description: "Déclaration d'intention d'amitié et de coopération (novembre 1999)",
+      url: "https://fr.wikipedia.org/wiki/Moscou"
+    },
+    "7": {
+      lat: "36.7",
+      lng: "3.2166666667",
+      name: "Wilaya d'Alger",
+      description: "Déclaration d'intention d'amitié et de coopération (mars 1999)",
+      url: "https://fr.wikipedia.org/wiki/Gouvernorat_du_Grand-Alger"
+    },
+    "8": {
+      lat: 36.8,
+      lng: 10.183,
+      name: "Tunis",
+      description: "Déclaration d'intention d'amitié et de coopération (mars 1999)",
+      url: "https://fr.wikipedia.org/wiki/Tunis"
+    },
+    "9": {
+      lat: 33.597,
+      lng: -7.619,
+      name: "Casablanca",
+      description: "Déclaration d'intention d'amitié et de coopération (mars 1999)",
+      url: "https://fr.wikipedia.org/wiki/Casablanca"
+    },
+    "10": {
+      lat: 12.117,
+      lng: -86.241,
+      name: "Managua",
+      description: "Déclaration d'intention d'amitié et de coopération (mai 2001)",
+      url: "https://fr.wikipedia.org/wiki/Managua"
+    },
+    "11": {
+      lat: 13.7,
+      lng: -89.207,
+      name: "San Salvador",
+      description: "Déclaration d'intention d'amitié et de coopération (mars 2001)",
+      url: "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)"
+    },
+    "12": {
+      lat: "25.05",
+      lng: "102.7",
+      name: "Province de Yunnan",
+      description: "Mémorandum d'entente (avril 2001)",
+      url: "https://fr.wikipedia.org/wiki/Yunnan"
+    },
+    "13": {
+      lat: 31.255,
+      lng: 121.475,
+      name: "Shanghai",
+      description: "Jumelage officiel (depuis 1985) et Mémorandum d'échanges amicaux (depuis 1985 renouvelables tous les trois ans)",
+      url: "https://fr.wikipedia.org/wiki/Shanghai"
+    },
+    "14": {
+      lat: 18.545,
+      lng: -72.336,
+      name: "Port-au-Prince",
+      description: "Protocole de coopération (juin 1995)",
+      url: "https://fr.wikipedia.org/wiki/Port-au-Prince"
+    },
+    "15": {
+      lat: 21.485,
+      lng: 109.123,
+      name: "Beihai",
+      description: "Protocole de coopération (décembre 1996)",
+      url: "https://fr.wikipedia.org/wiki/Beihai_(Guangxi)"
+    },
+    "16": {
+      lat: 21.029,
+      lng: 105.855,
+      name: "Hanoï",
+      description: "Protocole de coopération (juillet 1997)",
+      url: "https://fr.wikipedia.org/wiki/Hano%C3%AF"
+    },
+    "17": {
+      lat: 35.178,
+      lng: 129.078,
+      name: "Pusan",
+      description: "Protocole d'entente (juillet 2000)",
+      url: "https://fr.wikipedia.org/wiki/Pusan"
+    },
+    "18": {
+      lat: 33.896,
+      lng: 35.507,
+      name: "Beyrouth",
+      description: "Protocole de collaboration pour la mise en œuvre d'un système géomatique (septembre 1996)",
+      url: "https://fr.wikipedia.org/wiki/Beyrouth"
+    },
+    "19": {
+      lat: 45.759,
+      lng: 4.83,
+      name: "Lyon",
+      description: "Protocole d'échange et de coopération (décembre 1989)",
+      url: "https://fr.wikipedia.org/wiki/Lyon"
+    },
+    "20": {
+      lat: 45.468,
+      lng: 9.182,
+      name: "Milan",
+      description: "Protocole d'échange et de coopération (novembre 1996)",
+      url: "https://fr.wikipedia.org/wiki/Milan"
+    },
+    "21": {
+      lat: 34.379,
+      lng: 132.47,
+      name: "Hiroshima",
+      description: "Entente de jumelage (mai 1998)",
+      url: "https://fr.wikipedia.org/wiki/Hiroshima"
     }
   },
   labels: {},

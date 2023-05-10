@@ -1801,6 +1801,12 @@ input, select, textarea {
 		flex: 50%;
 	}
 
+/* Gallery (2 columns) */
+	.column2 {
+		flex: 49%;
+	}
+
+
 /* Gallery (3 columns) */
 	.column3 {
 		flex: 33%;

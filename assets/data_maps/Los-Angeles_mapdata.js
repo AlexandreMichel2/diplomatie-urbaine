@@ -711,291 +711,277 @@ var simplemaps_worldmap_mapdata={
   },
   locations: {
     "0": {
-      lat: -0.206,
-      lng: -78.509,
-      name: "Quito",
-      description: "Lettre d'intention (juillet 1997)",
-      url: "https://fr.wikipedia.org/wiki/Quito"
-    },
-    "1": {
-      lat: 42.359,
-      lng: -71.057,
-      name: "Boston",
-      description: "Déclaration d'intention (mars 1995)",
-      url: "https://fr.wikipedia.org/wiki/Boston"
-    },
-    "2": {
-      lat: 32.086,
-      lng: 34.79,
-      name: "Tel-Aviv Yafo",
-      description: "Déclaration d'intention (juin 1996)",
-      url: "https://fr.wikipedia.org/wiki/Tel-Aviv"
-    },
-    "3": {
-      lat: -33.437,
-      lng: -70.65,
-      name: "Santiago",
-      description: "Déclaration d'intention (juillet 1997)",
-      url: "https://fr.wikipedia.org/wiki/Santiago_du_Chili"
-    },
-    "4": {
-      lat: 40.178,
-      lng: 44.514,
-      name: "Erevan",
-      description: "Jumelage et déclaration d'intention (septembre 1998)",
-      url: "https://fr.wikipedia.org/wiki/Erevan"
-    },
-    "5": {
-      lat: 37.976,
-      lng: 23.736,
-      name: "Athènes",
-      description: "Jumelage et déclaration d'intention d'amitié et de coopération (septembre 1997)",
-      url: "https://fr.wikipedia.org/wiki/Ath%C3%A8nes"
-    },
-    "6": {
-      lat: 55.757,
-      lng: 37.615,
-      name: "Moscou",
-      description: "Déclaration d'intention d'amitié et de coopération (novembre 1999)",
-      url: "https://fr.wikipedia.org/wiki/Moscou"
-    },
-    "7": {
-      lat: "36.7",
-      lng: "3.2166666667",
-      name: "Wilaya d'Alger",
-      description: "Déclaration d'intention d'amitié et de coopération (mars 1999)",
-      url: "https://fr.wikipedia.org/wiki/Gouvernorat_du_Grand-Alger"
-    },
-    "8": {
-      lat: 36.8,
-      lng: 10.183,
-      name: "Tunis",
-      description: "Jumelage et déclaration d'intention d'amitié et de coopération (mars 1999)",
-      url: "https://fr.wikipedia.org/wiki/Tunis"
-    },
-    "9": {
-      lat: 33.597,
-      lng: -7.619,
-      name: "Casablanca",
-      description: "Jumelage et déclaration d'intention d'amitié et de coopération (mars 1999)",
-      url: "https://fr.wikipedia.org/wiki/Casablanca"
-    },
-    "10": {
-      lat: 12.117,
-      lng: -86.241,
-      name: "Managua",
-      description: "Déclaration d'intention d'amitié et de coopération (mai 2001)",
-      url: "https://fr.wikipedia.org/wiki/Managua"
-    },
-    "11": {
-      lat: 13.7,
-      lng: -89.207,
-      name: "San Salvador",
-      description: "Déclaration d'intention d'amitié et de coopération (mars 2001)",
-      url: "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)"
-    },
-    "12": {
-      lat: "25.05",
-      lng: "102.7",
-      name: "Province de Yunnan",
-      description: "Mémorandum d'entente (avril 2001)",
-      url: "https://fr.wikipedia.org/wiki/Yunnan"
-    },
-    "13": {
-      lat: 31.255,
-      lng: 121.475,
-      name: "Shanghai",
-      description: "Jumelage, jumelage officiel (depuis 1985) et Mémorandum d'échanges amicaux (depuis 1985 renouvelables tous les trois ans)",
-      url: "https://fr.wikipedia.org/wiki/Shanghai"
-    },
-    "14": {
-      lat: 18.545,
-      lng: -72.336,
-      name: "Port-au-Prince",
-      description: "Jumelage et protocole de coopération (juin 1995)",
-      url: "https://fr.wikipedia.org/wiki/Port-au-Prince"
-    },
-    "15": {
-      lat: 21.485,
-      lng: 109.123,
-      name: "Beihai",
-      description: "Protocole de coopération (décembre 1996)",
-      url: "https://fr.wikipedia.org/wiki/Beihai_(Guangxi)"
-    },
-    "16": {
-      lat: 21.029,
-      lng: 105.855,
-      name: "Hanoï",
-      description: "Jumelage et protocole de coopération (juillet 1997)",
-      url: "https://fr.wikipedia.org/wiki/Hano%C3%AF"
-    },
-    "17": {
-      lat: 35.178,
-      lng: 129.078,
-      name: "Pusan",
-      description: "Jumelage et protocole d'entente (juillet 2000)",
-      url: "https://fr.wikipedia.org/wiki/Pusan"
-    },
-    "18": {
-      lat: 33.896,
-      lng: 35.507,
-      name: "Beyrouth",
-      description: "Jumelage et protocole de collaboration pour la mise en œuvre d'un système géomatique (septembre 1996)",
-      url: "https://fr.wikipedia.org/wiki/Beyrouth"
-    },
-    "19": {
-      lat: 45.759,
-      lng: 4.83,
-      name: "Lyon",
-      description: "Protocole d'échange et de coopération (décembre 1989)",
-      url: "https://fr.wikipedia.org/wiki/Lyon"
-    },
-    "20": {
-      lat: 45.468,
-      lng: 9.182,
-      name: "Milan",
-      url: "https://fr.wikipedia.org/wiki/Milan",
-      description: "Jumelage et protocole d'échange et de coopération (novembre 1996)"
-    },
-    "21": {
-      lat: 34.379,
-      lng: 132.47,
-      name: "Hiroshima",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Hiroshima"
-    },
-    "22": {
-      lat: 46.173,
-      lng: 5.571,
-      name: "Montréal-la-Cluse",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Montr%C3%A9al-la-Cluse"
-    },
-    "23": {
-      lat: 40.26,
-      lng: -76.882,
-      name: "Harrisburg",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Harrisburg"
-    },
-    "24": {
-      lat: 41.388,
-      lng: 2.17,
-      name: "Barcelone",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Barcelone"
-    },
-    "25": {
       lat: 25.793,
       lng: -108.989,
       name: "Los Mochis",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Los_Mochis"
+      url: "https://fr.wikipedia.org/wiki/Los_Mochis",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
-    "26": {
-      lat: 21.305,
-      lng: -157.858,
-      name: "Honolulu",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Honolulu"
+    "1": {
+      lat: 32.535,
+      lng: -117.041,
+      name: "Tijuana",
+      url: "https://fr.wikipedia.org/wiki/Tijuana",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
-    "27": {
-      lat: 26.855,
-      lng: 80.921,
-      name: "Lucknow",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Lucknow"
+    "2": {
+      lat: 43.058,
+      lng: 12.58,
+      name: "Santa Maria degli Angeli",
+      url: "https://fr.wikipedia.org/wiki/Santa_Maria_degli_Angeli_(titre_cardinalice)",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
-    "28": {
-      lat: 38.579,
-      lng: -121.491,
-      name: "Cali",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Cali"
+    "3": {
+      lat: 54.895,
+      lng: 23.91,
+      name: "Kaunas",
+      url: "https://fr.wikipedia.org/wiki/Kaunas",
+      description: "Jumelage (1991)"
     },
-    "29": {
-      lat: 31.236,
-      lng: 34.791,
-      name: "Beer-Sheva",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Beer-Sheva"
+    "4": {
+      lat: 31.808,
+      lng: 34.657,
+      name: "Ashdod",
+      url: "https://fr.wikipedia.org/wiki/Ashdod",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
-    "30": {
-      lat: 44.434,
-      lng: 26.103,
-      name: "Bucarest",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Bucarest"
+    "5": {
+      lat: 40.743,
+      lng: 13.943,
+      name: "Ischia",
+      url: "https://fr.wikipedia.org/wiki/Ischia_(Italie)",
+      description: "Jumelage (2006)"
     },
-    "31": {
-      lat: 31.952,
-      lng: 35.94,
-      name: "Amman",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Amman"
+    "6": {
+      lat: "29.979444",
+      lng: "31.134444",
+      name: "Gizeh",
+      url: "https://fr.wikipedia.org/wiki/Gizeh",
+      description: "Jumelage (1989)"
     },
-    "32": {
-      lat: 12.117,
-      lng: -86.241,
-      name: "Managua",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Managua"
-    },
-    "33": {
-      lat: 36.772,
-      lng: 3.059,
-      name: "Alger",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Alger"
-    },
-    "34": {
+    "7": {
       lat: 13.7,
       lng: -89.207,
       name: "San Salvador",
-      description: "Jumelage",
+      description: "Jumelage (2005)",
       url: "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)"
     },
-    "35": {
-      lat: 52.372,
-      lng: 9.738,
-      name: "Hanovre",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Hanovre"
+    "8": {
+      lat: -36.852,
+      lng: 174.764,
+      name: "Auckland",
+      url: "https://fr.wikipedia.org/wiki/Auckland",
+      description: "Jumelage (1971)"
     },
-    "36": {
-      lat: 14.605,
-      lng: 120.986,
-      name: "Manille",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Manille"
+    "9": {
+      lat: -12.986,
+      lng: -38.523,
+      name: "Salvador",
+      url: "https://fr.wikipedia.org/wiki/Salvador_(Bahia)",
+      description: "Jumelage (1962)"
     },
-    "37": {
+    "10": {
+      lat: 29.55,
+      lng: 34.953,
+      name: "Eilat",
+      url: "https://fr.wikipedia.org/wiki/Eilat",
+      description: "Jumelage (1959)"
+    },
+    "11": {
+      lat: 42.435,
+      lng: 19.264,
+      name: "Podgorica",
+      url: "https://fr.wikipedia.org/wiki/Podgorica",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "12": {
+      lat: 49.26,
+      lng: -123.113,
+      name: "Vancouver",
+      url: "https://fr.wikipedia.org/wiki/Vancouver",
+      description: "Jumelage (1986)"
+    },
+    "13": {
+      lat: 35.178,
+      lng: 129.078,
+      name: "Pusan",
+      url: "https://fr.wikipedia.org/wiki/Pusan",
+      description: "Jumelage (1971)"
+    },
+    "14": {
       lat: 52.37,
       lng: 4.908,
       name: "Amsterdam",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Amsterdam"
+      url: "https://fr.wikipedia.org/wiki/Amsterdam",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "15": {
+      lat: 53.48,
+      lng: -2.249,
+      name: "Manchester",
+      url: "https://fr.wikipedia.org/wiki/Manchester",
+      description: "Pacte d'amitié"
+    },
+    "16": {
+      lat: "23.128889",
+      lng: "113.258889",
+      name: "Canton (Guangzhou)",
+      url: "https://fr.wikipedia.org/wiki/Canton_(Chine)",
+      description: "Jumelage (1981)"
+    },
+    "17": {
+      lat: 35.151,
+      lng: 136.919,
+      name: "Nagoya",
+      url: "https://fr.wikipedia.org/wiki/Nagoya",
+      description: "Jumelage (1959)"
+    },
+    "18": {
+      lat: -15.426,
+      lng: 28.279,
+      name: "Lusaka",
+      url: "https://fr.wikipedia.org/wiki/Lusaka",
+      description: "Jumelage (1968)"
+    },
+    "19": {
+      lat: -6.171,
+      lng: 106.826,
+      name: "Jakarta",
+      url: "https://fr.wikipedia.org/wiki/Jakarta",
+      description: "Jumelage (1990)"
+    },
+    "20": {
+      lat: 33.896,
+      lng: 35.507,
+      name: "Beyrouth",
+      url: "https://fr.wikipedia.org/wiki/Beyrouth",
+      description: "Jumelage (2006)"
+    },
+    "21": {
+      lat: 35.689,
+      lng: 51.415,
+      name: "Téhéran",
+      url: "https://fr.wikipedia.org/wiki/T%C3%A9h%C3%A9ran",
+      description: "Jumelage (1972)"
+    },
+    "22": {
+      lat: 40.178,
+      lng: 44.514,
+      name: "Erevan",
+      url: "https://fr.wikipedia.org/wiki/Erevan",
+      description: "Jumelage (2007)"
+    },
+    "23": {
+      lat: 25.037,
+      lng: 121.564,
+      name: "Taipei",
+      url: "https://fr.wikipedia.org/wiki/Taipei",
+      description: "Jumelage (1979)"
+    },
+    "24": {
+      lat: 37.976,
+      lng: 23.736,
+      name: "Athènes",
+      url: "https://fr.wikipedia.org/wiki/Ath%C3%A8nes",
+      description: "Jumelage (1984)"
+    },
+    "25": {
+      lat: 43.503,
+      lng: 16.442,
+      name: "Split",
+      url: "https://fr.wikipedia.org/wiki/Split",
+      description: "Jumelage (1993)"
+    },
+    "26": {
+      lat: 14.555,
+      lng: 121.035,
+      name: "Makati",
+      url: "https://fr.wikipedia.org/wiki/Makati",
+      description: "Jumelage (1992)"
+    },
+    "27": {
+      lat: 19.432,
+      lng: -99.133,
+      name: "Mexico",
+      url: "https://fr.wikipedia.org/wiki/Mexico",
+      description: "Jumelage (1969)"
+    },
+    "28": {
+      lat: 18.94,
+      lng: 72.835,
+      name: "Bombay (Mumbai)",
+      url: "https://fr.wikipedia.org/wiki/Bombay",
+      description: "Jumelage (1972)"
+    },
+    "29": {
+      lat: 44.837,
+      lng: -0.581,
+      name: "Bordeaux",
+      url: "https://fr.wikipedia.org/wiki/Bordeaux",
+      description: "Jumelage (1964)"
+    },
+    "30": {
+      lat: 14.605,
+      lng: 120.986,
+      name: "Manille",
+      url: "https://fr.wikipedia.org/wiki/Manille",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "31": {
+      lat: 59.933,
+      lng: 30.306,
+      name: "Saint-Pétersbourg",
+      url: "https://fr.wikipedia.org/wiki/Saint-P%C3%A9tersbourg",
+      description: "Jumelage (1984)"
+    },
+    "32": {
+      lat: 25.27,
+      lng: 55.309,
+      name: "Dubaï",
+      url: "https://fr.wikipedia.org/wiki/Duba%C3%AF_(ville)",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "33": {
+      lat: 45.512,
+      lng: -73.555,
+      name: "Montréal",
+      url: "https://fr.wikipedia.org/wiki/Montr%C3%A9al",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "34": {
+      lat: 51.506,
+      lng: -0.127,
+      name: "Londres",
+      url: "https://fr.wikipedia.org/wiki/Londres",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "35": {
+      lat: 52.516,
+      lng: 13.377,
+      name: "Berlin",
+      url: "https://fr.wikipedia.org/wiki/Berlin",
+      description: "Jumelage (1967)"
+    },
+    "36": {
+      lat: "51.776944",
+      lng: "19.454722",
+      name: "Łódź",
+      description: "Pacte d'amitié",
+      url: "https://fr.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+    },
+    "37": {
+      lat: -37.817,
+      lng: 144.968,
+      name: "Melbourne",
+      description: "Pacte d'amitié",
+      url: "https://fr.wikipedia.org/wiki/Melbourne"
     },
     "38": {
-      lat: 50.844,
-      lng: 4.356,
-      name: "Bruxelles",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Ville_de_Bruxelles"
-    },
-    "39": {
-      lat: 34.054,
-      lng: -118.245,
-      name: "Los Angeles",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Los_Angeles"
-    },
-    "40": {
-      lat: 25.671,
-      lng: -100.31,
-      name: "Monterrey",
-      description: "Jumelage",
-      url: "https://fr.wikipedia.org/wiki/Monterrey"
+      lat: 32.086,
+      lng: 34.79,
+      name: "Tel Aviv",
+      description: "Pacte d'amitié",
+      url: "https://fr.wikipedia.org/wiki/Tel_Aviv-Jaffa"
     }
   },
   labels: {},

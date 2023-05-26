@@ -714,293 +714,554 @@ var simplemaps_worldmap_mapdata={
       lat: -13.516,
       lng: -71.979,
       name: "Cuzco",
-      url: "https://fr.wikipedia.org/wiki/Cuzco"
+      url: "https://fr.wikipedia.org/wiki/Cuzco",
+      description: "Jumelage (1987)"
     },
     "1": {
       lat: 23.351,
       lng: 85.314,
-      name: "Ranchi"
+      name: "Ranchi",
+      url: "https://fr.wikipedia.org/wiki/Ranchi",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "2": {
       lat: 21.158,
       lng: -100.934,
-      name: "Dolores Hidalgo"
+      name: "Dolores Hidalgo",
+      url: "https://fr.wikipedia.org/wiki/Dolores_Hidalgo",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "3": {
       lat: 10.688,
       lng: -71.598,
-      name: "Maracaibo"
+      name: "Maracaibo",
+      url: "https://fr.wikipedia.org/wiki/Maracaibo",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "4": {
       lat: 45.977,
       lng: 10.334,
-      name: "Niardo"
+      name: "Niardo",
+      url: "https://fr.wikipedia.org/wiki/Niardo",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "5": {
       lat: -16.401,
       lng: -71.536,
-      name: "Arequipa"
+      name: "Arequipa",
+      url: "https://fr.wikipedia.org/wiki/Arequipa",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "6": {
       lat: 55.574,
       lng: 42.036,
-      name: "Mourom"
+      name: "Mourom",
+      url: "https://fr.wikipedia.org/wiki/Mourom",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "7": {
       lat: 21.017,
       lng: -101.253,
-      name: "Guanajuato"
+      name: "Guanajuato",
+      url: "https://fr.wikipedia.org/wiki/Guanajuato",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "8": {
       lat: 25.671,
       lng: -100.31,
-      name: "Monterrey"
+      name: "Monterrey",
+      url: "https://fr.wikipedia.org/wiki/Monterrey",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "9": {
       lat: 29.373,
       lng: 47.972,
-      name: "Koweït"
+      name: "Koweït",
+      url: "https://fr.wikipedia.org/wiki/Kowe%C3%AFt_(ville)",
+      description: "Jumelage (2011)"
     },
     "10": {
       lat: 18.384,
       lng: -66.053,
-      name: "San Juan"
+      name: "San Juan",
+      url: "https://fr.wikipedia.org/wiki/San_Juan_(Porto_Rico)",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "11": {
       lat: -32.968,
       lng: -60.659,
-      name: "Rosario"
+      name: "Rosario",
+      url: "https://fr.wikipedia.org/wiki/Rosario",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "12": {
       lat: 18.472,
       lng: -69.891,
-      name: "Saint-Domingue"
+      name: "Saint-Domingue",
+      url: "https://fr.wikipedia.org/wiki/Saint-Domingue_(ville)",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "13": {
       lat: 32.086,
       lng: 34.79,
-      name: "Tel Aviv"
+      name: "Tel Aviv",
+      url: "https://fr.wikipedia.org/wiki/Tel_Aviv-Jaffa",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "14": {
       lat: 31.738,
       lng: -106.488,
-      name: "Ciudad Juárez"
+      name: "Ciudad Juárez",
+      url: "https://fr.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "15": {
       lat: 29.761,
       lng: -95.37,
       name: "Houston",
-      url: "https://fr.wikipedia.org/wiki/Houston"
+      url: "https://fr.wikipedia.org/wiki/Houston",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "16": {
       lat: 35.151,
       lng: 136.919,
-      name: "Nagoya"
+      name: "Nagoya",
+      url: "https://fr.wikipedia.org/wiki/Nagoya",
+      description: "Jumelage (2007)"
     },
     "17": {
       lat: 37.559,
       lng: 127,
-      name: "Séoul"
+      name: "Séoul",
+      url: "https://fr.wikipedia.org/wiki/S%C3%A9oul",
+      description: "Mémorandum d'accord sur la promotion de la coopération dans le domaine de l'assistance technique, de l'échange d'informations et Expériences (2010)"
     },
     "18": {
       lat: 36.53,
       lng: -6.29,
-      name: "Cadix"
+      name: "Cadix",
+      url: "https://fr.wikipedia.org/wiki/Cadix",
+      description: "Jumelage (2009)"
     },
     "19": {
       lat: 20.688,
       lng: -103.351,
-      name: "Guadalajara"
+      name: "Guadalajara",
+      url: "https://fr.wikipedia.org/wiki/Guadalajara_(Mexique)",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "20": {
       lat: -22.912,
       lng: -43.175,
-      name: "Rio de Janeiro"
+      name: "Rio de Janeiro",
+      url: "https://fr.wikipedia.org/wiki/Rio_de_Janeiro",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "21": {
       lat: 39.655,
       lng: 66.97,
-      name: "Samarcande"
+      name: "Samarcande",
+      url: "https://fr.wikipedia.org/wiki/Samarcande",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "22": {
       lat: 25.294,
       lng: 51.52,
-      name: "Doha"
+      name: "Doha",
+      url: "https://fr.wikipedia.org/wiki/Doha",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "23": {
       lat: 35.172,
       lng: 33.365,
-      name: "Nicosie"
+      name: "Nicosie",
+      url: "https://fr.wikipedia.org/wiki/Nicosie",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "24": {
       lat: 33.896,
       lng: 35.507,
-      name: "Beyrouth"
+      name: "Beyrouth",
+      url: "https://fr.wikipedia.org/wiki/Beyrouth",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "25": {
       lat: -6.171,
       lng: 106.826,
-      name: "Jakarta"
+      name: "Jakarta",
+      url: "https://fr.wikipedia.org/wiki/Jakarta",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "26": {
       lat: 8.952,
       lng: -79.535,
-      name: "Panama"
+      name: "Panama (pays)",
+      url: "https://fr.wikipedia.org/wiki/Panama",
+      description: "Mémorandum d'accord sur la santé (2016)"
     },
     "27": {
       lat: -12.056,
       lng: -77.027,
-      name: "Lima"
+      name: "Lima",
+      url: "https://fr.wikipedia.org/wiki/Lima",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "28": {
       lat: -33.87,
       lng: 151.208,
-      name: "Sydney"
+      name: "Sydney",
+      url: "https://fr.wikipedia.org/wiki/Sydney",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "29": {
       lat: -33.437,
       lng: -70.65,
-      name: "Santiago"
+      name: "Santiago",
+      url: "https://fr.wikipedia.org/wiki/Santiago",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "30": {
       lat: 13.7,
       lng: -89.207,
-      name: "San Salvador"
+      name: "San Salvador",
+      url: "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
+      description: "Accord de coopération (1999)"
     },
     "31": {
       lat: 40.42,
       lng: -3.692,
-      name: "Madrid"
+      name: "Madrid",
+      url: "https://fr.wikipedia.org/wiki/Madrid",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "32": {
       lat: 4.615,
       lng: -74.069,
-      name: "Bogota"
+      name: "Bogota",
+      url: "https://fr.wikipedia.org/wiki/Bogota",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "33": {
       lat: 50.451,
       lng: 30.524,
-      name: "Kiev"
+      name: "Kiev",
+      url: "https://fr.wikipedia.org/wiki/Kiev",
+      description: "Déclaration d'amitié (1997)"
     },
     "34": {
       lat: 42.505,
       lng: 1.526,
-      name: "Andorre-la-Vieille"
+      name: "Andorre-la-Vieille",
+      url: "https://fr.wikipedia.org/wiki/Andorre-la-Vieille",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "35": {
       lat: 54.709,
       lng: 20.509,
-      name: "Kaliningrad"
+      name: "Kaliningrad",
+      url: "https://fr.wikipedia.org/wiki/Kaliningrad",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "36": {
       lat: 59.333,
       lng: 18.067,
-      name: "Stockholm"
+      name: "Stockholm",
+      url: "https://fr.wikipedia.org/wiki/Stockholm",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "37": {
       lat: -34.608,
       lng: -58.373,
-      name: "Buenos Aires"
+      name: "Buenos Aires",
+      url: "https://fr.wikipedia.org/wiki/Buenos_Aires",
+      description: "Jumelage (2006)"
     },
     "38": {
-      lat: 23.132,
+      lat: "23.9",
       lng: -82.367,
-      name: "La Havane"
+      name: "La Havane",
+      url: "https://fr.wikipedia.org/wiki/La_Havane",
+      description: "Jumelage (1997)"
     },
     "39": {
       lat: 14.631,
       lng: -90.495,
-      name: "Nueva Guatemala de la Asunción"
+      name: "Guatemala (Nueva Guatemala de la Asunción)",
+      url: "https://fr.wikipedia.org/wiki/Guatemala_(ville)",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "40": {
       lat: 10.506,
       lng: -66.918,
-      name: "Caracas"
+      name: "Caracas",
+      url: "https://fr.wikipedia.org/wiki/Caracas",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "41": {
       lat: 14.605,
       lng: 120.986,
-      name: "Manille"
+      name: "Manille",
+      url: "https://fr.wikipedia.org/wiki/Manille",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "42": {
       lat: 37.976,
       lng: 23.736,
-      name: "Athènes"
+      name: "Athènes",
+      url: "https://fr.wikipedia.org/wiki/Ath%C3%A8nes",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "43": {
       lat: -16.499,
       lng: -68.134,
-      name: "La Paz"
+      name: "La Paz",
+      url: "https://fr.wikipedia.org/wiki/La_Paz",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "44": {
       lat: -34.874,
       lng: -56.163,
-      name: "Montevideo"
+      name: "Montevideo",
+      url: "https://fr.wikipedia.org/wiki/Montevideo",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "45": {
       lat: 41.884,
       lng: -87.632,
-      name: "Chicago"
+      name: "Chicago",
+      url: "https://fr.wikipedia.org/wiki/Chicago",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "46": {
       lat: 39.907,
       lng: 116.388,
-      name: "Pékin"
+      name: "Pékin",
+      url: "https://fr.wikipedia.org/wiki/P%C3%A9kin",
+      description: "Jumelage (2009)"
     },
     "47": {
       lat: 48.768,
       lng: 9.172,
-      name: "Stuttgart"
+      name: "Stuttgart",
+      url: "https://fr.wikipedia.org/wiki/Stuttgart",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "48": {
       lat: 38.726,
       lng: -9.15,
-      name: "Lisbonne"
+      name: "Lisbonne",
+      url: "https://fr.wikipedia.org/wiki/Lisbonne",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "49": {
       lat: -23.563,
       lng: -46.655,
-      name: "São Paulo"
+      name: "São Paulo",
+      url: "https://fr.wikipedia.org/wiki/S%C3%A3o_Paulo",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "50": {
       lat: 48.857,
       lng: 2.341,
-      name: "Paris"
+      name: "Paris",
+      url: "https://fr.wikipedia.org/wiki/Paris",
+      description: "Accord d'amitié et de coopération (1999)"
     },
     "51": {
       lat: 41.062,
       lng: 28.989,
-      name: "Istanbul"
+      name: "Istanbul",
+      url: "https://fr.wikipedia.org/wiki/Istanbul",
+      description: "Jumelage (2010)"
     },
     "52": {
       lat: 43.649,
       lng: -79.385,
-      name: "Toronto"
+      name: "Toronto",
+      url: "https://fr.wikipedia.org/wiki/Toronto",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "53": {
       lat: 51.506,
       lng: -0.127,
-      name: "Londres"
+      name: "Londres",
+      url: "https://fr.wikipedia.org/wiki/Londres",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "54": {
       lat: 30.044,
       lng: 31.235,
-      name: "Le Caire"
+      name: "Le Caire",
+      url: "https://fr.wikipedia.org/wiki/Le_Caire",
+      description: "Jumelage ou partenariat (formel ou informel)"
     },
     "55": {
       lat: 34.054,
       lng: -118.245,
-      name: "Los Angeles"
+      name: "Los Angeles",
+      url: "https://fr.wikipedia.org/wiki/Los_Angeles",
+      description: "Jumelage (2007)"
     },
     "56": {
       lat: 52.516,
       lng: 13.377,
-      name: "Berlin"
+      name: "Berlin",
+      url: "https://fr.wikipedia.org/wiki/Berlin",
+      description: "Accord de collaboration (1996)"
     },
     "57": {
       lat: 40.715,
       lng: -74.007,
-      name: "New York"
+      name: "New York",
+      url: "https://fr.wikipedia.org/wiki/New_York",
+      description: "Jumelage ou partenariat (formel ou informel)"
+    },
+    "58": {
+      lat: -0.206,
+      lng: -78.509,
+      name: "Quito",
+      url: "https://fr.wikipedia.org/wiki/Quito",
+      description: "Jumelage (1999)"
+    },
+    "59": {
+      lat: 14.082,
+      lng: -87.205,
+      name: "Tegucigalpa",
+      description: "Jumelage (1999), Déclaration d'intention (2017) et Lettre d'intention pour la concurrence d'actions visant à l'échange d'expériences et de bonnes pratiques en matière d'alimentation et de nutrition (2017 jusqu'à la fin du programme)",
+      url: "https://fr.wikipedia.org/wiki/Tegucigalpa"
+    },
+    "60": {
+      lat: "22.35",
+      lng: -82.489,
+      name: "San Antonio de los Baños",
+      description: "Accord de jumelage et de coopération technique (1999)",
+      url: "https://fr.wikipedia.org/wiki/San_Antonio_de_los_Ba%C3%B1os"
+    },
+    "61": {
+      lat: 41.388,
+      lng: 2.17,
+      name: "Barcelone",
+      description: "Protocole d'amitié et de coopération technique (1999)",
+      url: "https://fr.wikipedia.org/wiki/Barcelone"
+    },
+    "62": {
+      lat: 15.504,
+      lng: -88.016,
+      name: "San Pedro Sula",
+      url: "https://fr.wikipedia.org/wiki/San_Pedro_Sula",
+      description: "Accord d'amitié et de coopération (1999)"
+    },
+    "63": {
+      lat: 37.388,
+      lng: -6.002,
+      name: "Andalousie",
+      description: "Accord de collaboration pour l'échange et la promotion d'activités dans le domaine de l'architecture et de l'urbanisme (1999)",
+      url: "https://fr.wikipedia.org/wiki/Andalousie"
+    },
+    "64": {
+      lat: 40.26,
+      lng: -76.882,
+      name: "Pennsylvanie",
+      description: "Mémorandum d'accord (1999)",
+      url: "https://fr.wikipedia.org/wiki/Pennsylvanie"
+    },
+    "65": {
+      lat: 23.112,
+      lng: -82.381,
+      name: "Cerro (Havane)",
+      description: "Accord de jumelage (1999)",
+      url: "https://fr.wikipedia.org/wiki/Cerro_(Cuba)"
+    },
+    "66": {
+      lat: 9.93,
+      lng: -84.086,
+      name: "Canton Central (San José)",
+      description: "Accord de jumelage et de coopération (2000)",
+      url: "https://fr.wikipedia.org/wiki/San_Jos%C3%A9_(Costa_Rica)"
+    },
+    "67": {
+      lat: 50.466,
+      lng: 4.862,
+      name: "Wallonie",
+      description: "Accord de coopération (2001)",
+      url: "https://fr.wikipedia.org/wiki/Wallonie"
+    },
+    "68": {
+      lat: 23.144,
+      lng: 113.246,
+      name: "Canton (Guangzhou)",
+      description: "Mémorandum d'échange et de coopération sur la promotion de la coopération dans le domaine de l'assistance technique, de l'échange d'informations et d'expériences (2010)",
+      url: "https://fr.wikipedia.org/wiki/Canton_(Chine)"
+    },
+    "69": {
+      lat: 55.757,
+      lng: 37.615,
+      name: "Moscou",
+      description: "Protocole d'intention (2014)",
+      url: "https://fr.wikipedia.org/wiki/Moscou"
+    },
+    "70": {
+      lat: 53.348,
+      lng: -6.248,
+      name: "Dublin",
+      description: "Mémorandum d'accord (2015)",
+      url: "https://fr.wikipedia.org/wiki/Dublin"
+    },
+    "71": {
+      lat: 33.448,
+      lng: -112.076,
+      name: "Phoenix (Arizona)",
+      description: "Mémorandum d'accord (2015)",
+      url: "https://fr.wikipedia.org/wiki/Phoenix_(Arizona)"
+    },
+    "72": {
+      lat: 45.023,
+      lng: -72.352,
+      name: "Québec (province)",
+      description: "Déclaration conjointe (2015)",
+      url: "https://fr.wikipedia.org/wiki/Qu%C3%A9bec"
+    },
+    "73": {
+      lat: 34.764,
+      lng: 113.659,
+      name: "Zhengzhou",
+      description: "Protocole d'accord sur les questions de santé (2016)",
+      url: "https://fr.wikipedia.org/wiki/Zhengzhou"
+    },
+    "74": {
+      lat: 37.881,
+      lng: 112.55,
+      name: "Shanxi (province)",
+      description: "Protocole d'accord en matière de santé (2016)",
+      url: "https://fr.wikipedia.org/wiki/Shanxi"
+    },
+    "75": {
+      lat: 31.87,
+      lng: 117.275,
+      name: "Anhui (province)",
+      description: "Mémorandum d'accord sur les questions de santé (2016)",
+      url: "https://fr.wikipedia.org/wiki/Anhui"
+    },
+    "76": {
+      lat: 29.425,
+      lng: -98.495,
+      name: "San Antonio (Texas)",
+      description: "Protocole d'accord pour promouvoir le développement économique (2019)",
+      url: "https://fr.wikipedia.org/wiki/San_Antonio"
+    },
+    "77": {
+      lat: 38.579,
+      lng: -121.491,
+      name: "Californie (État)",
+      description: "Protocole d'accord pour le renforcement de la coopération en matière de politiques et de pratiques dans le secteur de l'énergie et de l'environnement (2019)",
+      url: "https://fr.wikipedia.org/wiki/Californie"
+    },
+    "78": {
+      lat: -5.098,
+      lng: -81.102,
+      name: "Paita",
+      url: "https://fr.wikipedia.org/wiki/Paita",
+      description: "Jumelage ou partenariat (formel ou informel)"
     }
   },
   labels: {},

@@ -805,7 +805,7 @@ var simplemaps_worldmap_mapdata={
       lat: 31.255,
       lng: 121.475,
       name: "Shanghai",
-      description: "Jumelage, jumelage officiel (depuis 1985) et Mémorandum d'échanges amicaux (depuis 1985 renouvelables tous les trois ans)",
+      description: "Jumelage officiel (depuis 1985) et Mémorandum d'échanges amicaux (depuis 1985 renouvelables tous les trois ans)",
       url: "https://fr.wikipedia.org/wiki/Shanghai"
     },
     "14": {

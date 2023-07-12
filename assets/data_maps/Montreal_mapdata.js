@@ -996,6 +996,62 @@ var simplemaps_worldmap_mapdata={
       name: "Monterrey",
       description: "Jumelage",
       url: "https://fr.wikipedia.org/wiki/Monterrey"
+    },
+    "41": {
+      lat: 5.327,
+      lng: -4.022,
+      name: "Abidjan",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Abidjan"
+    },
+    "42": {
+      lat: 14.669,
+      lng: -17.437,
+      name: "Dakar",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Dakar"
+    },
+    "43": {
+      lat: 51.216,
+      lng: 6.777,
+      name: "Dusseldorf",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/D%C3%BCsseldorf"
+    },
+    "44": {
+      lat: -26.205,
+      lng: 28.04,
+      name: "Johannesburg",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Johannesbourg"
+    },
+    "45": {
+      lat: 46.432,
+      lng: 6.91,
+      name: "Montreux",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Montreux"
+    },
+    "46": {
+      lat: 48.857,
+      lng: 2.341,
+      name: "Paris",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Paris"
+    },
+    "47": {
+      lat: 22.557,
+      lng: 114.119,
+      name: "Shenzhen",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/Shenzhen"
+    },
+    "48": {
+      lat: 37.559,
+      lng: 127,
+      name: "Seoul",
+      description: "Entente de collaboration",
+      url: "https://fr.wikipedia.org/wiki/S%C3%A9oul"
     }
   },
   labels: {},

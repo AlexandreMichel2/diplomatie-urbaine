@@ -827,14 +827,14 @@ var simplemaps_worldmap_mapdata={
       lng: 136.919,
       name: "Nagoya",
       url: "https://fr.wikipedia.org/wiki/Nagoya",
-      description: "Jumelage (2007)"
+      description: "Jumelage (1978)"
     },
     "17": {
       lat: 37.559,
       lng: 127,
       name: "Séoul",
       url: "https://fr.wikipedia.org/wiki/S%C3%A9oul",
-      description: "Mémorandum d'accord sur la promotion de la coopération dans le domaine de l'assistance technique, de l'échange d'informations et Expériences (2010)"
+      description: "Jumelage (1993) et Mémorandum d'accord sur la promotion de la coopération dans le domaine de l'assistance technique, de l'échange d'informations et Expériences (2010)"
     },
     "18": {
       lat: 36.53,
@@ -925,14 +925,14 @@ var simplemaps_worldmap_mapdata={
       lng: -89.207,
       name: "San Salvador",
       url: "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
-      description: "Accord de coopération (1999)"
+      description: "Jumelage (1979)"
     },
     "31": {
       lat: 40.42,
       lng: -3.692,
       name: "Madrid",
       url: "https://fr.wikipedia.org/wiki/Madrid",
-      description: "Jumelage ou partenariat (formel ou informel)"
+      description: "Jumelage (1983)"
     },
     "32": {
       lat: 4.615,
@@ -1030,7 +1030,7 @@ var simplemaps_worldmap_mapdata={
       lng: -87.632,
       name: "Chicago",
       url: "https://fr.wikipedia.org/wiki/Chicago",
-      description: "Jumelage ou partenariat (formel ou informel)"
+      description: "Jumelage (1991)"
     },
     "46": {
       lat: 39.907,
@@ -1100,14 +1100,14 @@ var simplemaps_worldmap_mapdata={
       lng: -118.245,
       name: "Los Angeles",
       url: "https://fr.wikipedia.org/wiki/Los_Angeles",
-      description: "Jumelage (2007)"
+      description: "Jumelage (1969)"
     },
     "56": {
       lat: 52.516,
       lng: 13.377,
       name: "Berlin",
       url: "https://fr.wikipedia.org/wiki/Berlin",
-      description: "Accord de collaboration (1996)"
+      description: "Accord de collaboration et de jumelage (1996)"
     },
     "57": {
       lat: 40.715,
@@ -1176,15 +1176,15 @@ var simplemaps_worldmap_mapdata={
       lat: 9.93,
       lng: -84.086,
       name: "Canton Central (San José)",
-      description: "Accord de jumelage et de coopération (2000)",
+      description: "Jumelage (2000)",
       url: "https://fr.wikipedia.org/wiki/San_Jos%C3%A9_(Costa_Rica)"
     },
     "67": {
       lat: 50.466,
       lng: 4.862,
       name: "Wallonie",
-      description: "Accord de coopération (2001)",
-      url: "https://fr.wikipedia.org/wiki/Wallonie"
+      url: "https://fr.wikipedia.org/wiki/Wallonie",
+      description: "Accord de coopération (2006)"
     },
     "68": {
       lat: 23.144,

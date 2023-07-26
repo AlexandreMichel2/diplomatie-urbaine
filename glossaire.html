@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<link rel="icon" type="image/png" href="images/ecology-and-environment.png"/>
-		<title>Glossaire de la diplomatie</title>
+		<title>Glossaire de la diplomatie des villes</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 	<body class="is-preload">
 
         <!-- Header -->
-			<header id="header">
+			<header class="header">
 				<a href="index.html" class="title">Diplomatie urbaine</a>
 				<nav>
 					<ul>
@@ -59,6 +59,7 @@
 				<!-- Introduction -->
 					<section id="glossaire" class="wrapper fullscreen style1 fade-up">
 						<div class="inner">
+							<br><br>
 							
 							<h1>Glossaire</h1> <br>
 
@@ -390,7 +391,19 @@
 			<script src="assets/js/main.js"></script>
 		<!-- Map data -->
 			<script type="text/javascript" src="assets\data_maps\Montreal_mapdata.js"></script>		
-			<script  type="text/javascript" src="assets\data_maps\Montreal_worldmap.js"></script>	
+			<script  type="text/javascript" src="assets\data_maps\Montreal_worldmap.js"></script>
+			<script>
+				const header = document.querySelector(".header");
+				const toggleClass = "is-sticky";
+				window.addEventListener("scroll", () => {
+					const currentScroll = window.pageYOffset;
+					if (currentScroll > 175) {
+						header.classList.add(toggleClass);
+					} else {
+						header.classList.remove(toggleClass);
+					}
+				});
+			</script>
 
 	</body>
 </html>

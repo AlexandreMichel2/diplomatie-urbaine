@@ -12,14 +12,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	
 	</head>
 
 
 	<body class="is-preload">
 
         <!-- Header -->
-			<header id="header">
+			<header class="header">
 				<a href="index.html" class="title">Diplomatie urbaine</a>
 				<nav>
 					<ul>
@@ -28,7 +27,7 @@
 						<li><a href="Mexico_City.html">Mexico</a></li>
 						<li><a href="Montreal.html" class="active">Montréal</a></li>
 						<li><a href="glossaire.html">Glossaire</a></li>
-                        <li><a href="methodologie.html">Méthodologie</a></li>
+						<li><a href="methodologie.html">Méthodologie</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -60,6 +59,8 @@
 				<!-- Informations générales -->
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
+							<br><br>
+
 							<h1>Montréal<span class="image right">
 								<a href="https://montreal.ca/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Montreal_logo.svg" style="border:4px solid black;padding: 10px;background-color: rgba(255, 255, 255, 0.65);" /></a><br>
 								
@@ -645,7 +646,19 @@
 			<script src="assets/js/main.js"></script>
 		<!-- Map data -->
 			<script type="text/javascript" src="assets\data_maps\Montreal_mapdata.js"></script>		
-			<script  type="text/javascript" src="assets\data_maps\Montreal_worldmap.js"></script>	
+			<script  type="text/javascript" src="assets\data_maps\Montreal_worldmap.js"></script> 
+			<script>
+				const header = document.querySelector(".header");
+				const toggleClass = "is-sticky";
+				window.addEventListener("scroll", () => {
+					const currentScroll = window.pageYOffset;
+					if (currentScroll > 175) {
+						header.classList.add(toggleClass);
+					} else {
+						header.classList.remove(toggleClass);
+					}
+				});
+			</script>
 
 	</body>
 </html>

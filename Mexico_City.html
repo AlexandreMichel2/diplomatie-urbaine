@@ -18,7 +18,7 @@
 	<body class="is-preload">
 
         <!-- Header -->
-			<header id="header">
+			<header class="header">
 				<a href="index.html" class="title">Diplomatie urbaine</a>
 				<nav>
 					<ul>
@@ -58,6 +58,8 @@
 				<!-- Informations générales -->
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
+							<br><br>
+
 							<h1>Mexico<span class="image right">
 								<a href="https://www.cdmx.gob.mx/"><img src="images/Logo_CDMX.png" style="border:4px solid black;padding: 10px;background-color: rgba(255, 255, 255, 0.65);"/></a><br>
 								
@@ -742,5 +744,17 @@
 		<!-- Map data -->
 			<script type="text/javascript" src="assets\data_maps\Mexico_mapdata.js"></script>		
 			<script  type="text/javascript" src="assets\data_maps\Mexico_worldmap.js"></script>
+			<script>
+				const header = document.querySelector(".header");
+				const toggleClass = "is-sticky";
+				window.addEventListener("scroll", () => {
+					const currentScroll = window.pageYOffset;
+					if (currentScroll > 175) {
+						header.classList.add(toggleClass);
+					} else {
+						header.classList.remove(toggleClass);
+					}
+				});
+			</script>
 	</body>
 </html>

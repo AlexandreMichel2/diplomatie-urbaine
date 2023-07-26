@@ -3384,26 +3384,31 @@ input, select, textarea {
 
 /* Header */
 
-	#header {
+	.header {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
 		background-color: #0d0d0d;
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 1.5em 1.85em;
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		z-index: 10000;
 	}
 
-		#header > .title {
+		.header > .title {
 			border: 0;
 			color: #ffffff;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
-			z-index: 10000;
+			z-index: 10001;
 		}
 
-		#header > nav {
+		.header > nav {
 			-moz-flex: 1;
 			-webkit-flex: 1;
 			-ms-flex: 1;
@@ -3411,23 +3416,23 @@ input, select, textarea {
 			text-align: right;
 		}
 
-			#header > nav > ul {
+			.header > nav > ul {
 				margin: 0;
 				padding: 0;
 			}
 
-				#header > nav > ul > li {
+				.header > nav > ul > li {
 					display: inline-block;
 					margin-left: 1.75em;
 					padding: 0;
 					vertical-align: middle;
 				}
 
-					#header > nav > ul > li:first-child {
+					.header > nav > ul > li:first-child {
 						margin-left: 0;
 					}
 
-					#header > nav > ul > li a {
+					.header > nav > ul > li a {
 						border: 0;
 						color: rgba(255, 255, 255, 0.5);
 						display: inline-block;
@@ -3437,17 +3442,17 @@ input, select, textarea {
 						text-transform: uppercase;
 					}
 
-						#header > nav > ul > li a:hover {
+						.header > nav > ul > li a:hover {
 							color: rgba(255, 255, 255, 0.85);
 						}
 
-						#header > nav > ul > li a.active {
+						.header > nav > ul > li a.active {
 							color: #ffffff;
 						}
 
 		@media screen and (min-width: 736px) and (max-width: 1280px) {
 
-			#header {
+			.header {
 				padding-top: 4.5em;
 				padding-bottom: 1em;
 			}
@@ -3457,7 +3462,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#header {
+			.header {
 				padding: 1em 2em;
 			}
 
@@ -3465,32 +3470,54 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-			#header {
+			.header {
 				display: block;
 				padding: 0 2em;
 				text-align: left;
 			}
 
-				#header .title {
+				.header .title {
 					font-size: 1.25em;
 					padding: 1em 0;
 				}
 
-				#header > nav {
+				.header > nav {
 					border-top: solid 1px rgba(255, 255, 255, 0.15);
 					text-align: inherit;
 				}
 
-					#header > nav > ul > li {
+					.header > nav > ul > li {
 						margin-left: 1.5em;
 					}
 
-						#header > nav > ul > li a {
+						.header > nav > ul > li a {
 							height: 6em;
 							line-height: 6em;
 						}
 
 		}
+
+
+/* Sticky Header */
+	.header.is-sticky {
+		position: fixed;
+		box-shadow: 0 5px 16px rgba(0, 0, 0, 0.1);
+		padding: 0.65em 0.925em;
+		backdrop-filter: blur(10px);
+		animation: slideDown 0.35s ease-out	  
+	}
+
+
+	@keyframes slideDown {
+		from {
+		  transform: translateY(-100%);
+		}
+		to {
+		  transform: translateY(0);
+		}
+	  }
+
+
 
 /* Wrapper (main) */
 
@@ -3515,7 +3542,7 @@ input, select, textarea {
 
 		}
 
-	#header + #wrapper > .wrapper > .inner {
+	.header + #wrapper > .wrapper > .inner {
 		margin: 0 auto;
 	}
 
@@ -3546,7 +3573,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.45);
 	}
 
-	#header + #wrapper + #footer > .inner {
+	.header + #wrapper + #footer > .inner {
 		margin: 0 auto;
 	}
 

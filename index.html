@@ -20,7 +20,7 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<header id="header" style="padding-top:1.75em">
+			<header class="header" style="padding-top:1.75em">
 				<a href="index.html" class="title">Diplomatie urbaine</a>
 				<nav>
 					<ul>
@@ -40,6 +40,7 @@
 				<!-- INTRO -->
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
+							<br><br>
 							
 							<h1>Accueil</h1>
 
@@ -166,6 +167,17 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<!--<script>
+				const header = document.querySelector(".header");
+				const toggleClass = "is-sticky";
+				window.addEventListener("scroll", () => {
+					const currentScroll = window.pageYOffset;
+					if (currentScroll > 175) {
+						header.classList.add(toggleClass);
+					} else {
+						header.classList.remove(toggleClass);
+					}
+				});
+			</script>-->
 	</body>
 </html>

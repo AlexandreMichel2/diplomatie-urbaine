@@ -3449,55 +3449,6 @@ input, select, textarea {
 						.header > nav > ul > li a.active {
 							color: #ffffff;
 						}
-
-		@media screen and (min-width: 736px) and (max-width: 1280px) {
-
-			.header {
-				padding-top: 4.5em;
-				padding-bottom: 1em;
-			}
-
-		}
-
-
-		@media screen and (max-width: 736px) {
-
-			.header {
-				padding: 1em 2em;
-			}
-
-		}
-
-		@media screen and (max-width: 480px) {
-
-			.header {
-				display: block;
-				padding: 0 2em;
-				text-align: left;
-			}
-
-				.header .title {
-					font-size: 1.25em;
-					padding: 1em 0;
-				}
-
-				.header > nav {
-					border-top: solid 1px rgba(255, 255, 255, 0.15);
-					text-align: inherit;
-				}
-
-					.header > nav > ul > li {
-						margin-left: 1.5em;
-					}
-
-						.header > nav > ul > li a {
-							height: 6em;
-							line-height: 6em;
-						}
-
-		}
-
-
 /* Sticky Header */
 	.header.is-sticky {
 		position: fixed;
@@ -3516,6 +3467,63 @@ input, select, textarea {
 		  transform: translateY(0);
 		}
 	  }
+
+		@media screen and (min-width: 736px) and (max-width: 1280px) {
+
+			.header {
+				padding: 1.1em 1.85em;
+			}
+
+		}
+
+
+		@media screen and (max-width: 736px) {
+
+			.header {
+				padding: 0.55em 1.65em;
+			}
+
+			.header.is-sticky {
+				position: absolute;  
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.header {
+				display: block;
+				padding: 0 2em;
+				text-align: left;
+			}
+
+				.header .title {
+					font-size: 1em;
+					padding: 1em 0;
+				}
+
+				.header > nav {
+					border-top: solid 1px rgba(255, 255, 255, 0.15);
+					text-align: inherit;
+				}
+
+					.header > nav > ul > li {
+						margin-left: 1.5em;
+						font-size: 0.9em;
+					}
+
+						.header > nav > ul > li a {
+							height: 6em;
+							line-height: 6em;
+						}
+			.header.is-sticky {
+				position: absolute;  
+			}
+
+		}
+
+
+
 
 
 
@@ -3591,7 +3599,7 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 18em;
-		z-index: 1;
+		z-index: 9999;
 	}
 
 		#sidebar > .inner {
@@ -3864,11 +3872,11 @@ input, select, textarea {
 				left: 0;
 				line-height: 3.5em;
 				overflow: hidden;
-				padding: 0;
+				padding: 3.475em 0.25em;
 				text-align: center;
 				top: 0;
 				width: 100%;
-				z-index: 10000000;
+				z-index: 2;
 			}
 
 				#sidebar > .inner {
